@@ -4,53 +4,59 @@
     "url": "https://nexifyhub.com",
     "icon": "https://icons.duckduckgo.com/ip3/nexifyhub.com.ico",
     "slug": "nexify-hub-main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 628,
-    "timeWeek": 590,
-    "timeMonth": 590,
-    "timeYear": 590,
-    "dailyMinutesDown": {}
+    "time": 515,
+    "timeDay": 423,
+    "timeWeek": 515,
+    "timeMonth": 515,
+    "timeYear": 515,
+    "dailyMinutesDown": {
+      "2023-04-14": 0
+    }
   },
   {
     "name": "NexifyHub - API",
     "url": "https://api.nexifyhub.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.nexifyhub.com.ico",
     "slug": "nexify-hub-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 644,
-    "timeWeek": 580,
-    "timeMonth": 580,
-    "timeYear": 580,
-    "dailyMinutesDown": {}
+    "time": 581,
+    "timeDay": 615,
+    "timeWeek": 581,
+    "timeMonth": 581,
+    "timeYear": 581,
+    "dailyMinutesDown": {
+      "2023-04-14": 0
+    }
   },
   {
     "name": "NexifyHub - Docs",
     "url": "https://docs.nexifyhub.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.nexifyhub.com.ico",
     "slug": "nexify-hub-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 624,
-    "timeDay": 689,
-    "timeWeek": 624,
-    "timeMonth": 624,
-    "timeYear": 624,
-    "dailyMinutesDown": {}
+    "time": 611,
+    "timeDay": 623,
+    "timeWeek": 611,
+    "timeMonth": 611,
+    "timeYear": 611,
+    "dailyMinutesDown": {
+      "2023-04-14": 0
+    }
   }
 ]
