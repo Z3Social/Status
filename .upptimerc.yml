@@ -9,6 +9,8 @@ sites:
     url: https://api.nexifyhub.com
   - name: NexifyHub - Docs
     url: https://docs.nexifyhub.com
+  - name: NexifyHub - Blog
+    url: https://blog.nexifyhub.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
