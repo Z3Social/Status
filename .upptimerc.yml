@@ -6,7 +6,7 @@ sites:
   - name: NexifyHub - Main
     url: https://nexifyhub.com
   - name: NexifyHub - API
-    url: https://api.nexifyhub.com
+    url: https://api.nexifyhub.com/_health
   - name: NexifyHub - Docs
     url: https://docs.nexifyhub.com
   - name: NexifyHub - Blog
