@@ -1,7 +1,7 @@
 url: https://api.nexifyhub.com/_health
 status: down
-code: 503
-responseTime: 657
-lastUpdated: 2023-06-17T23:10:17.181Z
+code: 502
+responseTime: 918
+lastUpdated: 2023-06-18T23:10:10.397Z
 startTime: Tue Apr 11 2023 12:42:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
