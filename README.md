@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.z3.social): <!--live status--> **🟥 Complete outage**
 
-This repository contains the open-source uptime monitor and status page for [ZЗ Social](https://github.com/Z3Social), powered by [Lemon Systems](https://www.lemonsystems.com.ar/).
+This repository contains the open-source uptime monitor and status page for [ZЗ Social](https://github.com/Z3Social).
 
 [![Uptime CI](https://github.com/Z3Social/Status/workflows/Uptime%20CI/badge.svg)](https://github.com/Z3Social/Status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/Z3Social/Status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Z3Social/Status/actions?query=workflow%3A%22Response+Time+CI%22)
