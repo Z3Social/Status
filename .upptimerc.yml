@@ -1,23 +1,23 @@
 # Change these first
-owner: NexifyHub # Your GitHub organization or username, where this repository lives
+owner: Z3Social # Your GitHub organization or username, where this repository lives
 repo: Status # The name of this repository
 
 sites:
-  - name: NexifyHub - Main
-    url: https://nexifyhub.com
-  - name: NexifyHub - API
-    url: https://nexifyhub.com/api/v1/instance
-  - name: NexifyHub - Blog
-    url: https://blog.nexifyhub.com
+  - name: Z3 Social - Main
+    url: https://z3.social
+  - name: Z3 Social - API
+    url: https://z3.social/api/v1/instance
+  - name: Z3 Social - Blog
+    url: https://blog.z3.social
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.nexifyhub.com
+  cname: status.z3.social
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/NexifyHub/Status/master/assets/icon.svg
-  name: NexifyHub
-  introTitle: "NexifyHub is an upcoming social networking site."
+  logoUrl: https://raw.githubusercontent.com/Z3Social/Status/master/assets/icon.svg
+  name: Z3 Social
+  introTitle: "Z3 Social is an upcoming social networking site."
   introMessage: ""
   navbar:
     - title: Status
